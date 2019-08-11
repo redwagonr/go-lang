@@ -1,0 +1,10 @@
+Data types
+
+//basic types
+    int, int32, float, float64
+//aggregate types
+    arrays, structs
+//reference types
+    pointers, slices, maps, functions
+//interface types 
+    interfaces
